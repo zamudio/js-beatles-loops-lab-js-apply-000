@@ -32,6 +32,6 @@ function iLoveTheBeatles(num) {
   do {
     var beatlesLove.push("I love the Beatles!")
     num++
-  } while (num < num)
-  return love
+  } while (num < 15)
+  return beatlesLove
 }
