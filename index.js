@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
   
   for(let i = 0; i < musicians.length; i++) {
    var bandMember = `${musicians[i]} plays ${instruments[i]}`
-   musiciansInfo += bandMember
+   musiciansInfo = bandMember
   }
   return musiciansInfo
 }
