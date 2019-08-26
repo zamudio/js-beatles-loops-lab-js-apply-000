@@ -21,7 +21,7 @@ function johnLennonFacts(facts) {
   let i = 0
   while (i < facts.length) {
     var exclamation = `${facts[i]}!!!`
-    lennonFacts.push()
+    lennonFacts.push(exclamation)
     i++
   }
   return lennonFacts
