@@ -18,7 +18,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts(facts) {
   var lennonFacts = []
-  let i = 0
+  var i = 0
   while (i < facts.length) {
     var exclamation = `${facts[i]}!!!`
     lennonFacts.push(exclamation)
@@ -29,6 +29,8 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   var empty = []
-  
-  do
+  var i = 0
+  do {
+    
+  }
 }
