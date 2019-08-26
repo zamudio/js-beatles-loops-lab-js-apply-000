@@ -33,6 +33,7 @@ function iLoveTheBeatles(num) {
   do {
     var beatlesLove = "I love the Beatles!"
     love.push(beatlesLove)
+    i++
   } while (i < 15)
   return love
 }
